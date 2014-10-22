@@ -1,0 +1,76 @@
+body {
+	font-family: open_sansregular, sans-serif, "Helvetica Neue",Helvetica,Tahoma,sans-serif;
+}
+
+.head {
+	background-color: #DACC9D;
+}
+
+.head h1 {
+	background-image: radial-gradient(circle farthest-corner at center center, #FFF 0%, #DACC9D 25%);
+	height: 500px;
+}
+
+.head span {
+	display: block;
+}
+
+.head .buona {
+	font-size: 3em;
+	font-family: 'Lobster', cursive;
+	color: #DA3A4B;
+}
+
+.head .scuola {
+	text-transform: uppercase;
+	font-size: 5.7em;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #229EC5;
+}
+
+.head .libera {
+	font-size: 2.4em;
+	font-family: 'Ubuntu', sans-serif;
+	color: #000;
+}
+
+.box {
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+.contents {
+	background-color: #DA3A4B;
+	color: #FFF;
+	font-size: 14px;
+}
+
+.contents a {
+	color: #FFF;
+}
+
+.proposals {
+	background-color: #229EC5;
+}
+
+.proposals ul li {
+	list-style: none;
+	border-left: 2px solid #000;
+	margin-bottom: 30px;
+	padding-left: 10px;
+	font-size: 1.2em;
+}
+
+.proposals ul li span {
+	float: left;
+	margin-left: -50px;
+	font-size: 40px;
+}
+
+.social {
+}
+
+.footer {
+	background-color: #B59943;
+}
+
