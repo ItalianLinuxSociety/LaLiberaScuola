@@ -34,6 +34,11 @@ body {
 	color: #000;
 }
 
+.lang {
+	text-align: right;
+	margin-right: 20px;
+}
+
 @media screen and (max-width: 767px) {
 	.head .buona {
 		font-size: 2em;
